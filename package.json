@@ -1,0 +1,14 @@
+{
+  "name": "saucedemo-login-cypress-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "^13.6.3"
+  },
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "",
+  "license": "ISC"
+}
