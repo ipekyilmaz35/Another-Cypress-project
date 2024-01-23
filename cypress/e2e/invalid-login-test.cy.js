@@ -10,7 +10,6 @@ const usernames = [
   
   describe('When the login test fails for SauceDemo', () => {
     it('Login with wrong credentials', () => {
-
       
         //Opens the SausageDemo webpage 
         cy.visit('/');
