@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
@@ -10,3 +11,6 @@ module.exports = defineConfig({
 {
   "chromeWebSecurity"; false
 }
+=======
+https://saucedemo.com
+>>>>>>> master

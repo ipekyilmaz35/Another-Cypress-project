@@ -21,7 +21,7 @@ module.exports = {
         'sourceType': 'module'
     },
     'rules': {
-        'quotes': ['error', 'single'], // Tüm stringler için tek tırnak kullanımını zorunlu kılar.
-        'no-multiple-empty-lines': ['error', { 'max': 1 }]  // Maksimum 1 ardışık boş satıra izin verir.
+        'quotes': ['error', 'single'], // It makes single quote mandatory for strings.
+        'no-multiple-empty-lines': ['error', { 'max': 1 }]  // It does allow only 1 space line as maximum.
     }
 };
