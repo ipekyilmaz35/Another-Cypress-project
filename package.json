@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "devDependencies": {
-    "cypress": "^13.6.3"
+    "cypress": "^13.6.3",
+    "lint": "eslint ."
   },
   "scripts": {
     "test": "npx cypress open",
-    "lint": "eslint ."
   },
   "pageLoadTimeout": 120000,
   "author": "",
