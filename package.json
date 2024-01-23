@@ -7,8 +7,15 @@
     "cypress": "^13.6.3"
   },
   "scripts": {
-    "test": "cypress open"
+    "test": "npx cypress open",
+    "lint": "eslint ."
   },
+  "pageLoadTimeout": 120000,
   "author": "",
   "license": "ISC"
+  
 }
+
+
+
+
