@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-const { defineConfig } = require("cypress");
+const { defineConfig } = require('cypress');
 
 module.exports = defineConfig({
   e2e: {
@@ -9,8 +8,5 @@ module.exports = defineConfig({
 });
 
 {
-  "chromeWebSecurity"; false
+  'chromeWebSecurity'; false
 }
-=======
-https://saucedemo.com
->>>>>>> master
